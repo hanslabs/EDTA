@@ -1,0 +1,117 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/AfterMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/AfterMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/Any.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/Any.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/AnyBase.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/AnyBase.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/AnyCast.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/AnyCast.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ApiHook.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ApiHook.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ApiHookKey.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ApiHookKey.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/Asserter.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/Asserter.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/AssertionFailedError.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/AssertionFailedError.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/BeforeMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/BeforeMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/CallerMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/CallerMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ChainableMockMethodContainer.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ChainableMockMethodContainer.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ChainableMockMethodCore.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ChainableMockMethodCore.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ChainableMockMethodIndexKey.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ChainableMockMethodIndexKey.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ChainableMockMethodNameKey.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ChainableMockMethodNameKey.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ChainableMockObject.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ChainableMockObject.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ChainableMockObjectBase.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ChainableMockObjectBase.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ChainingMockHelper.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ChainingMockHelper.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ConstraintSet.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ConstraintSet.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/DecoratedConstraint.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/DecoratedConstraint.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/DefaultMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/DefaultMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/DefaultStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/DefaultStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/DelegatedMethodGetter.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/DelegatedMethodGetter.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/DieStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/DieStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/Exception.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/Exception.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ExpectsMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ExpectsMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/Formatter.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/Formatter.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/GlobalMockObject.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/GlobalMockObject.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/HookMockObject.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/HookMockObject.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IdentityBuilder.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IdentityBuilder.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IgnoreResultHandler.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IgnoreResultHandler.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IgnoreResultHandlerFactory.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IgnoreResultHandlerFactory.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IgnoreReturnStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IgnoreReturnStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InterfaceInfo.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InterfaceInfo.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/Invocation.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/Invocation.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvocationId.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvocationId.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvocationMockBuilderGetter.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvocationMockBuilderGetter.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvocationMocker.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvocationMocker.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvocationMockerSet.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvocationMockerSet.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvocationTimesMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvocationTimesMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvokedAtLeast.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvokedAtLeast.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvokedAtMost.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvokedAtMost.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvokedExactly.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvokedExactly.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvokedOnce.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvokedOnce.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/InvokedTimesMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/InvokedTimesMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IsAnythingHelper.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IsAnythingHelper.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IsStringContains.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IsStringContains.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IsStringEndWith.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IsStringEndWith.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/IsStringStartWith.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/IsStringStartWith.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/JmpCode.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/JmpCode.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/JmpOnlyApiHook.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/JmpOnlyApiHook.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/MethodIndiceChecker.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/MethodIndiceChecker.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/MismatchResultHandler.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/MismatchResultHandler.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/MismatchResultHandlerFactory.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/MismatchResultHandlerFactory.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/MockObjectBase.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/MockObjectBase.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/NormalResultHandler.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/NormalResultHandler.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/NormalResultHandlerFactory.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/NormalResultHandlerFactory.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/OutBoundPointer.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/OutBoundPointer.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/PendingMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/PendingMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ProcStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ProcStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/RefAny.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/RefAny.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/RepeatStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/RepeatStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/Result.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/Result.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ReturnObjectList.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ReturnObjectList.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ReturnStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ReturnStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/SimpleInvocationRecorder.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/SimpleInvocationRecorder.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/StringConstraint.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/StringConstraint.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/StubContainer.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/StubContainer.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/StubsMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/StubsMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/TestFailureMatcher.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/TestFailureMatcher.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ThenStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ThenStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/TypeString.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/TypeString.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/TypelessConstraintAdapter.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/TypelessConstraintAdapter.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/TypelessStubAdapter.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/TypelessStubAdapter.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/UnixCodeModifier.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/UnixCodeModifier.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/VirtualTable.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/VirtualTable.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/VirtualTableUtils.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/VirtualTableUtils.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/VoidResultHandler.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/VoidResultHandler.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/VoidResultHandlerFactory.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/VoidResultHandlerFactory.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/WillStub.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/WillStub.cpp.o"
+  "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/src/ports/failure/gtest_report_failure.cpp" "/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir/ports/failure/gtest_report_failure.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "MOCKCPP_ALLOW_MULTI_INHERITANCE=1"
+  "MOCKCPP_MAX_INHERITANCE=2"
+  "MOCKCPP_MAX_PARAMETERS=12"
+  "MOCKCPP_MAX_VTBL_SIZE=20"
+  "MOCKCPP_NO_NAMESPACE=0"
+  "PACKAGE=\"mockcpp\""
+  "PACKAGE_BUGREPORT=\"dev.mockcpp@gmail.com\""
+  "PACKAGE_NAME=\"mockcpp\""
+  "PACKAGE_STRING=\"mockcpp\""
+  "PACKAGE_URL=\"http://code.google.com/p/mockcpp\""
+  "VERSION=\"2.6\""
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../3rdparty"
+  "../include"
+  "/mnt/d/CodeProject/001_CProject/EDTA/build/../opensource/googletest-release-1.10.0/googletest/include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

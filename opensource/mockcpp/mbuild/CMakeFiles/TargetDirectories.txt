@@ -1,0 +1,15 @@
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/CMakeFiles/install/strip.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/CMakeFiles/install/local.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/CMakeFiles/edit_cache.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/CMakeFiles/rebuild_cache.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/CMakeFiles/list_install_components.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/CMakeFiles/install.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/install.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/list_install_components.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/rebuild_cache.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/vtbl_related_headers.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/install/strip.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/install/local.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/mockcpp.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/arg_related_headers.dir
+/mnt/d/CodeProject/001_CProject/EDTA/opensource/mockcpp/mbuild/src/CMakeFiles/edit_cache.dir
